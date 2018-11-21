@@ -1,0 +1,10 @@
+# Build products
+target/
+build/
+.gradle/
+
+# Eclipse
+.classpath
+.project
+.settings/
+/bin/
